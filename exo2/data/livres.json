@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "titre": "Les Misérables",
+      "auteur": "Victor Hugo",
+      "genre": "Roman",
+      "annee": 1862
+    },
+    {
+      "id": 2,
+      "titre": "Le Petit Prince",
+      "auteur": "Antoine de Saint-Exupéry",
+      "genre": "Conte",
+      "annee": 1943
+    },
+    {
+      "id": 3,
+      "titre": "1984",
+      "auteur": "George Orwell",
+      "genre": "Dystopie",
+      "annee": 1949
+    }
+  ]
+  
